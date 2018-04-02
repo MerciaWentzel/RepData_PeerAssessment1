@@ -160,7 +160,7 @@ plot(
 )
 ```
 
-![](PA1_template_files/figure-html/calcAvgStepsPerInterval-1.png)<!-- -->
+![](PA1_template_files/figure-html/plotAvgStepsPerInterval-1.png)<!-- -->
 
 2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
